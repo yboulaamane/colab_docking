@@ -2,7 +2,7 @@
 - 👀 I’m interested in molecular modelling
 - 🌱 I’m currently learning bioinformatics from scratch
 - 💞️ I’m looking to collaborate on any bioinformatics projects
-- 📫 How to reach me : y.boulaamane@gmail.com
+- 📫 How to reach me : fb.com/yassir.fb
 
 <!---
 yassir-git/yassir-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
